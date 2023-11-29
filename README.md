@@ -7,7 +7,6 @@
 ## 💻 Working environment 工作环境
 [![Android](https://img.shields.io/badge/Android%2012-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-12/)
 [![Windows](https://img.shields.io/badge/-Windows_11_Insider_Preview-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
-[![iOS 15](https://img.shields.io/badge/iOS%-4f4f4f?style=for-the-badge&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
 ## like things 喜欢的事情
 - 搞工程样品和医疗设备
 - 折腾各种测试版系统
