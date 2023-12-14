@@ -13,6 +13,8 @@
 - 嗑药药
 - 和老婆贴贴
 - 摸鱼
+## Currently working at 目前任職於
+- Otokonoko Network CEO
 ## Contact information 联系方式
 - [tg](https://t.me/ShirleyQaQ23)
 - email shirley.catears@gmail.com
