@@ -19,5 +19,5 @@
 ## Currently working at 目前任職於
 - Otokonoko Network CEO
 ## Contact information 联系方式
-- [tg](https://t.me/ShirleyQaQ23)
+- [电报](https://t.me/ShirleyQaQ23)
 - email shirley.catears@gmail.com
